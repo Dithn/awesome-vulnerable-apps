@@ -88,6 +88,7 @@ Paid tranining courses
 - [InsecureShop](https://github.com/optiv/InsecureShop) - An Intentionally designed Vulnerable Android Application built in Kotlin. 
 - [AndroGoat](https://github.com/satishpatnayak/AndroGoat) - AndroGoat is purposely developed open source vulnerable/insecure app using Kotlin.
 - [DIVA Android](https://github.com/payatu/diva-android) - Damn Insecure and vulnerable App for Android.
+- [DVMA](https://github.com/cpeoples/dvma) - Damn Vulnerable Mobile App, an intentionally vulnerable Flutter app for Android and iOS with findings mapped to OWASP MASVS/MASTG, the Mobile Top 10, and CWE.
 - [OVAA](https://github.com/oversecured/ovaa) - Oversecured Vulnerable Android App.
 - [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid) - Android Application covering various static and dynamic vulnerabilities.
 - [Android Security Testing](https://github.com/RavikumarRamesh/hpAndro1337) - hpAndro1337 Application made in Kotlin with multiple vulnerabilities and a CTF.
